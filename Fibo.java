@@ -9,6 +9,7 @@ public class Fibo {
 	}
 	
 	public static int fibo(int n){
+		/*this is the method to call*/
 		if(n==1 || n==2)
 			return 1;
 		return fibo(n-1) + fibo(n-2);
