@@ -5,6 +5,8 @@ public class Fibo {
 /**
 *This is the change for branch 02
 *step 1: change 1
+*step 1: change 2
+*step 1: change 3
 */
 	public static void main(String[] args) {
 		int result = Fibo.fibo(10);
